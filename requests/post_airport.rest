@@ -1,0 +1,8 @@
+POST http://localhost:3023/api/airports
+Content-Type: application/json
+
+{
+  "iata-code": "BCN",
+  "city": "Barcelona",
+  "country": "Spain"
+}
