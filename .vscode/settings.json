@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/2257ebd2-2fef-43d3-b438-641dc0302f50/resourceGroups/TRS/providers/Microsoft.Web/sites/airports-api",
+  "appService.deploySubpath": "."
+}

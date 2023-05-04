@@ -82,7 +82,7 @@ app.post('/api/airports', (req, res) => {
   res.json(airport)
 })
 
-const PORT = 3023
+const PORT = process.env.PORT || 3023
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`)
 })
